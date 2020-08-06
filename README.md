@@ -1,4 +1,4 @@
-# Boilerplate Project
+# Boilerplate Project.
 
 A boilerplate project created in flutter using MobX and Provider.
 
